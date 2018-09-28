@@ -81,7 +81,7 @@ button
     font-size: 60px;
     color:gainsboro;
     margin-right: 20px;
-    margin-top: 46px;\
+    margin-top: 46px;
     margin-bottom: 40px;
     transition: transform .2s;
     background-color: black !important;
@@ -89,8 +89,8 @@ button
     padding: 3px 5px 5px 5px;
 }
 .git{
-  height:50px;
-  width:50px;
+  height:70px;
+  width:70px;
 }
 
 .fab:hover {
