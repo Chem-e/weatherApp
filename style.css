@@ -88,10 +88,7 @@ button
     border-radius: 90px;	
     padding: 3px 5px 5px 5px;
 }
-.git{
-  height:70px;
-  width:70px;
-}
+
 
 .fab:hover {
     transform: scale(1.5);
