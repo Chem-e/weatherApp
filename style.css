@@ -79,12 +79,12 @@ button
 .fab {
     float: right;
     font-size: 60px;
-/*     color:gainsboro; */
+    color:gainsboro;
     margin-right: 20px;
     margin-top: 46px;
     margin-bottom: 40px;
     transition: transform .2s;
-/*     background-color: black !important; */
+    background-color: black !important;
     border-radius: 90px;	
     padding: 3px 5px 5px 5px;
 }
