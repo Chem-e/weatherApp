@@ -26,7 +26,7 @@ $.ajax({
     let iconName = data.weather[0].main;
             if (iconName === `Clouds`) {
                 document.querySelector("#icon").innerHTML = `<i class="wi wi-cloud"></i>`;
-                document.body.style.backgroundImage = "url('https://giphy.com/gifs/clouds-10539PNHnSuPTi')";
+                document.body.style.backgroundImage = "url('https://www.overflowglobal.com/wp-content/uploads/2018/01/heavenly-clouds.jpg')";
 
             } else if (iconName === `Rain`) {
                 document.querySelector("#icon").innerHTML = `<i class="wi wi-rain"></i>`;
