@@ -85,13 +85,12 @@ button
     margin-bottom: 40px;
     transition: transform .2s;
     background-color: black !important;
-    height:50px;
-    width:50px;
     border-radius: 90px;	
 /*     padding: 3px 5px 5px 5px; */
-	
-    
-
+}
+.git{
+  height:50px;
+  width:50px;
 }
 
 .fab:hover {
